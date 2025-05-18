@@ -1,0 +1,36 @@
+C:\Users\vinicius\Documents\ProjConcilig\ConciligProj\ProjetoC\ProjetoConci\ProjetoConci\bin\Debug\ProjetoConci.exe.config
+C:\Users\vinicius\Documents\ProjConcilig\ConciligProj\ProjetoC\ProjetoConci\ProjetoConci\bin\Debug\ProjetoConci.exe
+C:\Users\vinicius\Documents\ProjConcilig\ConciligProj\ProjetoC\ProjetoConci\ProjetoConci\bin\Debug\ProjetoConci.pdb
+C:\Users\vinicius\Documents\ProjConcilig\ConciligProj\ProjetoC\ProjetoConci\ProjetoConci\obj\Debug\ProjetoConci.csproj.AssemblyReference.cache
+C:\Users\vinicius\Documents\ProjConcilig\ConciligProj\ProjetoC\ProjetoConci\ProjetoConci\obj\Debug\ProjetoConci.frmLogin.resources
+C:\Users\vinicius\Documents\ProjConcilig\ConciligProj\ProjetoC\ProjetoConci\ProjetoConci\obj\Debug\ProjetoConci.Properties.Resources.resources
+C:\Users\vinicius\Documents\ProjConcilig\ConciligProj\ProjetoC\ProjetoConci\ProjetoConci\obj\Debug\ProjetoConci.csproj.GenerateResource.cache
+C:\Users\vinicius\Documents\ProjConcilig\ConciligProj\ProjetoC\ProjetoConci\ProjetoConci\obj\Debug\ProjetoConci.csproj.CoreCompileInputs.cache
+C:\Users\vinicius\Documents\ProjConcilig\ConciligProj\ProjetoC\ProjetoConci\ProjetoConci\obj\Debug\ProjetoConci.exe
+C:\Users\vinicius\Documents\ProjConcilig\ConciligProj\ProjetoC\ProjetoConci\ProjetoConci\obj\Debug\ProjetoConci.pdb
+C:\Users\vinicius\Documents\ProjConcilig\ConciligProj\ProjetoC\ProjetoConci\ProjetoConci\obj\Debug\ProjetoConci.frmCadastro.resources
+C:\Users\vinicius\Documents\ProjConcilig\ConciligProj\ProjetoC\ProjetoConci\ProjetoConci\obj\Debug\ProjetoConci.frmPrincipal.resources
+C:\Vonera\ConciligProj\ProjetoC\ProjetoConci\ProjetoConci\bin\Debug\ProjetoConci.exe.config
+C:\Vonera\ConciligProj\ProjetoC\ProjetoConci\ProjetoConci\bin\Debug\ProjetoConci.exe
+C:\Vonera\ConciligProj\ProjetoC\ProjetoConci\ProjetoConci\bin\Debug\ProjetoConci.pdb
+C:\Vonera\ConciligProj\ProjetoC\ProjetoConci\ProjetoConci\obj\Debug\ProjetoConci.csproj.AssemblyReference.cache
+C:\Vonera\ConciligProj\ProjetoC\ProjetoConci\ProjetoConci\obj\Debug\ProjetoConci.frmCadastro.resources
+C:\Vonera\ConciligProj\ProjetoC\ProjetoConci\ProjetoConci\obj\Debug\ProjetoConci.frmLogin.resources
+C:\Vonera\ConciligProj\ProjetoC\ProjetoConci\ProjetoConci\obj\Debug\ProjetoConci.frmPrincipal.resources
+C:\Vonera\ConciligProj\ProjetoC\ProjetoConci\ProjetoConci\obj\Debug\ProjetoConci.Properties.Resources.resources
+C:\Vonera\ConciligProj\ProjetoC\ProjetoConci\ProjetoConci\obj\Debug\ProjetoConci.csproj.GenerateResource.cache
+C:\Vonera\ConciligProj\ProjetoC\ProjetoConci\ProjetoConci\obj\Debug\ProjetoConci.csproj.CoreCompileInputs.cache
+C:\Vonera\ConciligProj\ProjetoC\ProjetoConci\ProjetoConci\obj\Debug\ProjetoConci.exe
+C:\Vonera\ConciligProj\ProjetoC\ProjetoConci\ProjetoConci\obj\Debug\ProjetoConci.pdb
+C:\Users\mathe\OneDrive\Área de Trabalho\assets-concilig\ProjetoConci\ProjetoConci\ProjetoConci\bin\Debug\ProjetoConci.exe.config
+C:\Users\mathe\OneDrive\Área de Trabalho\assets-concilig\ProjetoConci\ProjetoConci\ProjetoConci\bin\Debug\ProjetoConci.exe
+C:\Users\mathe\OneDrive\Área de Trabalho\assets-concilig\ProjetoConci\ProjetoConci\ProjetoConci\bin\Debug\ProjetoConci.pdb
+C:\Users\mathe\OneDrive\Área de Trabalho\assets-concilig\ProjetoConci\ProjetoConci\ProjetoConci\obj\Debug\ProjetoConci.csproj.AssemblyReference.cache
+C:\Users\mathe\OneDrive\Área de Trabalho\assets-concilig\ProjetoConci\ProjetoConci\ProjetoConci\obj\Debug\ProjetoConci.frmCadastro.resources
+C:\Users\mathe\OneDrive\Área de Trabalho\assets-concilig\ProjetoConci\ProjetoConci\ProjetoConci\obj\Debug\ProjetoConci.frmLogin.resources
+C:\Users\mathe\OneDrive\Área de Trabalho\assets-concilig\ProjetoConci\ProjetoConci\ProjetoConci\obj\Debug\ProjetoConci.frmPrincipal.resources
+C:\Users\mathe\OneDrive\Área de Trabalho\assets-concilig\ProjetoConci\ProjetoConci\ProjetoConci\obj\Debug\ProjetoConci.Properties.Resources.resources
+C:\Users\mathe\OneDrive\Área de Trabalho\assets-concilig\ProjetoConci\ProjetoConci\ProjetoConci\obj\Debug\ProjetoConci.csproj.GenerateResource.cache
+C:\Users\mathe\OneDrive\Área de Trabalho\assets-concilig\ProjetoConci\ProjetoConci\ProjetoConci\obj\Debug\ProjetoConci.csproj.CoreCompileInputs.cache
+C:\Users\mathe\OneDrive\Área de Trabalho\assets-concilig\ProjetoConci\ProjetoConci\ProjetoConci\obj\Debug\ProjetoConci.exe
+C:\Users\mathe\OneDrive\Área de Trabalho\assets-concilig\ProjetoConci\ProjetoConci\ProjetoConci\obj\Debug\ProjetoConci.pdb

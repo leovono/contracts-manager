@@ -1,0 +1,23 @@
+- alterar string conexão
+	stringConexao = @"Data Source=LEONARDOVONO_PC;+
+	Initial Catalog=DB_conclilig;Integrated Security=True;";
+
+_____________________________
+
+CREATE TABLE usuarios (
+nome VARCHAR(150) NOT NULL,
+senha VARCHAR(150) NOT NULL
+);
+
+CREATE TABLE contratos (
+nome VARCHAR(150) NOT NULL,
+cpf VARCHAR (14) NOT NULL,
+contrato INT NOT NULL,
+produto VARCHAR(150) NOT NULL,
+vencimento DATE NOT NULL,
+valor MONEY NOT NULL,
+nome_arquivo VARCHAR(150) NOT NULL,
+usuario_import VARCHAR(150) NOT NULL
+);
+
+_____________________________
